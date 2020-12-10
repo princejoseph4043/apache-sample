@@ -1,1 +1,8 @@
-# apache-sample
+# jenkins-ecr-project-apache-sample
+
+
+
+Reference:
+https://medium.com/paul-zhao-projects/continuous-delivery-pipeline-for-amazon-ecs-using-jenkins-github-and-amazon-ecr-5714df354d4e
+
+
