@@ -1,4 +1,4 @@
-# jenkins-ecr-project-apache-sample
+# jenkins-freestyle-cicd-ecr-apache
 
 
 Under master branch
